@@ -1,7 +1,6 @@
 # Raffle Defi Smart Contract
 
-
-# Getting Started
+## Getting Started
 
 ## Requirements
 
@@ -23,16 +22,7 @@ cd hardhat-smartcontract-lottery-fcc
 yarn
 ```
 
-## Typescript
-
-If you want to get to typescript and you cloned the javascript version, just run:
-
-```
-git checkout typescript
-yarn 
-```
-
-# Useage
+# Usage
 
 Deploy:
 
